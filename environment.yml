@@ -1,0 +1,15 @@
+name: bsw_cavity
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - ipympl
+  - scikit-image
+  - autograd
+  - h5py
+  - nlopt
+  - "pymeep=*=*mpich*"
